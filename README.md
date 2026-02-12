@@ -5,8 +5,8 @@
   ## Overview of Tasks
   This project covers the following tasks in Oracle 21c:
 
-1.** Task 1:**Create a new Pluggable Database (PDB), create a user inside it, and verify it is open.  
-2.**Task 2:**Create a temporary PDB, verify its existence, delete it completely, and confirm deletion.  
+1.** Task 1:** Create a new Pluggable Database (PDB), create a user inside it, and verify it is open.  
+2.** Task 2:** Create a temporary PDB, verify its existence, delete it completely, and confirm deletion.  
 3.** Task 3:** Configure and access Oracle Enterprise Manager (OEM) to view the PDBs and users.
 
 ## Oracle Environment Used

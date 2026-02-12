@@ -21,14 +21,14 @@
 - Created PDB: `NA_PDB_28785`  
 - User created inside PDB: `YourFirstName_plsqlauca_StudentID`  
 - Verified PDB is open (`READ WRITE`) using SQL queries.
-  ![Creation of PDB ](Screenshots/PDB_Creation)
+  ![Creation of PDB ](Screenshots/PDB_Creation.png)
 
 ### Task 2 – Create and Delete a Temporary PDB
 - Created temporary PDB: `NA_to_delete_pdb_28785`  
 - Verified it exists using `DBA_PDBS` and `V$PDBS`.  
 - Deleted the PDB including data files.  
 - Confirmed deletion by checking that it no longer appears in queries.
- ![Deletion of a Temporary PDB](Screenshots/Deletion) 
+ ![Deletion of a Temporary PDB](Screenshots/Deletion.png) 
 
 ### Task 3 – Oracle Enterprise Manager (OEM)
 - Accessed OEM via Database Express.  
